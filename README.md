@@ -15,15 +15,15 @@ Esta lista de exercício deve:
 Exercícios:<br>
 1 - Classe Bola: Crie uma classe que modele uma bola:<br>
 Atributos: Cor, circunferência, material<br>
-Métodos: trocaCor e mostraCor
+Métodos: trocaCor e mostraCor<br>
 2 - Classe Quadrado: Crie uma classe que modele um quadrado:<br>
 Atributos: Tamanho do lado<br>
-Métodos: Mudar valor do Lado, Retornar valor do Lado e calcular Área;
+Métodos: Mudar valor do Lado, Retornar valor do Lado e calcular Área;<br>
 3 - Classe Retangulo: Crie uma classe que modele um retangulo:<br>
 Atributos: LadoA, LadoB (ou Comprimento e Largura, ou Base e Altura, a escolher)<br>
 Métodos: Mudar valor dos lados, Retornar valor dos lados, calcular Área e calcular Perímetro;<br>
 Crie um programa que utilize esta classe. Ele deve pedir ao usuário que informe as medidades de um local.
-Depois, deve criar um objeto com as medidas e calcular a quantidade de pisos e de rodapés necessárias para o local.
+Depois, deve criar um objeto com as medidas e calcular a quantidade de pisos e de rodapés necessárias para o local.<br>
 4 - Classe Pessoa: Crie uma classe que modele uma pessoa:<br>
 Atributos: nome, idade, peso e altura<br>
 Métodos: Envelhercer, engordar, emagrecer, crescer.<br>
