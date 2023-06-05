@@ -11,8 +11,10 @@ Esta lista de exercício deve:
 - Ser entregue no prazo proposto.
 - Todos os integrantes devem enviar a lista na plataforma.
 - Ter os algoritmos pedidos escritos em linguagem Java.
-- Ter todos os algoritmos devidamente identados.
+- Ter todos os algoritmos devidamente identados.<br>
+
 Exercícios:<br>
+
 1 - Classe Bola: Crie uma classe que modele uma bola:<br>
 Atributos: Cor, circunferência, material<br>
 Métodos: trocaCor e mostraCor<br>
